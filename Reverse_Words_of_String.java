@@ -24,3 +24,6 @@ public class Reverse_Words_of_String
         }
     }
 }
+// enter the String
+//InPut :- abc def geh
+//OutPut :- geh	def	abc	
